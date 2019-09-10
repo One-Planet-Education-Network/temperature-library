@@ -1,11 +1,19 @@
-# dht11
+# Temperature sensor library
 
 DHT11 is the temperature sensor we are using in our CO2 project.
 
 --------------------------------------------------------
 
+To add this library to your project:
+- download it by clicking on the green button "Clone or download" then click on "Download"
+- open the Arduino program, go to "Sketch" then "Include library", after that "Add a .ZIP Library"
+- in the window that opens and find the downloaded file, then click on "Choose"
+
+Your library should now be installed
 
 
+
+--------------------------------------------------------
 
 
 
