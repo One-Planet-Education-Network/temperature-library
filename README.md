@@ -2,6 +2,12 @@
 
 DHT11 is the temperature sensor we are using in our CO2 project.
 
+--------------------------------------------------------
+
+
+
+
+
 
 Working version of the DHT11 library for Arduino
 
